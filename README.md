@@ -1,2 +1,2 @@
-# dio-desafiogihub
+# dio-desafiogithub
 Desafio de Projeto - DIO
