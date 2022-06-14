@@ -1,0 +1,5 @@
+-O Git é um sistema de versionamento de softwares distribuidos;
+-Com ele, podemos ter todo o histórico de versão e atualziação do que estamos 
+desenvolvendo;
+-Utilizando o Github (que também é uma rede social), podemos alocar todos nossos
+projetos que estão em nossa máquina para a "nuvem"
