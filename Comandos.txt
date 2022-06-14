@@ -2,3 +2,7 @@ git init - inicializa o git na pasta em questão
 git push - aponta o repositório local para nuvem
 git pull - sincroniza o repositório remoto com o local
 git commit - serve para sinalizarmos as alterações feitas
+
+
+** Com o git pull, podemos inclusive corrigir erros de conflito, que podem acontecer
+quando o repositório remoto não está da mesma forma que o repositório local **
