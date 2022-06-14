@@ -1,2 +1,3 @@
 # dio-desafiogithub
-Desafio de Projeto - DIO
+Primeiro Desafio de Projeto - DIO
+Introdução ao Git/Github
